@@ -28,10 +28,4 @@ I am Ira, a developer from Ukraine, currently living in Germany.
 
 <a href="https://github.com/irakov7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irakov7&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/irakov87"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
