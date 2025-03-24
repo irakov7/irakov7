@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Frontend Developer
 -------------------------
 
-I am Ira, a developer from Ukraine, currently living in Germany.
 
 * 🌍  I'm based in Germany
 * 🖥️  See my portfolio at [My portfolio](http://https://github.com/irakov7?tab=repositories)
